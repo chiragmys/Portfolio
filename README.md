@@ -36,6 +36,6 @@ pip install -r requirements.txt
 
 To build a professional online presence and showcase my technical knowledge, projects, and achievements.
 
-## 👨‍💻 Author
+👨‍💻 Author
 
 **Chirag N**
